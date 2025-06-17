@@ -1,4 +1,4 @@
-# Responsive Business Landing Page
+# Responsive Landing Page
 
 This is a clean, responsive, and modern landing page template built with **HTML** and **CSS**. It includes a hero section, services showcase, case studies, a contact form, and a footer — all styled using custom CSS variables and a mobile-first approach.
 
